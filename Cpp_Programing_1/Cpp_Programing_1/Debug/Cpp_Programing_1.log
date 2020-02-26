@@ -1,0 +1,5 @@
+﻿  Cpp_Programing_1.cpp
+d:\c++study\cpp-study\cpp_programing_1\cpp_programing_1\cpp_programing_1.cpp(115): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\c++study\cpp-study\cpp_programing_1\cpp_programing_1\cpp_programing_1.cpp(116): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\c++study\cpp-study\cpp_programing_1\cpp_programing_1\cpp_programing_1.cpp(135): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Cpp_Programing_1.vcxproj -> D:\C++Study\Cpp-Study\Cpp_Programing_1\Debug\Cpp_Programing_1.exe
