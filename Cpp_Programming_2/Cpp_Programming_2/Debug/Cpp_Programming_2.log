@@ -1,0 +1,3 @@
+﻿  Cpp_Programming_2.cpp
+d:\c++study\cpp-study\cpp_programming_2\cpp_programming_2\cpp_programming_2.cpp(19): warning C4172: 지역 변수 또는 임시: temp의 주소를 반환하고 있습니다.
+  Cpp_Programming_2.vcxproj -> D:\C++Study\Cpp-Study\Cpp_Programming_2\Debug\Cpp_Programming_2.exe
